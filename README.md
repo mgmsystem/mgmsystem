@@ -22,6 +22,7 @@ Atuação no desenvolvimento e manutenção de ERPs, sistemas fiscais, aplicaç�
 - **Plataformas para o setor de turismo:** desenvolvimento e evolução de funcionalidades, regras de negócio e integrações com fornecedores externos, utilizando C# e .NET Framework. Entre as entregas, destacam-se as integrações completas com a Viator (passeios turísticos) e a Transfeera (recebimentos via Pix).
 - **Projetos independentes:** desenvolvimento de soluções empresariais, automação e inteligência de negócios.
 
-## Currículo e contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/marcelo-gutierrez-dev/)
+- [E-Mail](gutierrez.programmer@hotmail.com)
